@@ -11,7 +11,6 @@ import Chat from './components/chatbor';
 import Train from './components/train_3';
 import UndertrialDashboar from './components/raja';
 import Chatt from './components/last';
-import Ek from './components/ekaur';
 function App() {
   return (
     <Router>
